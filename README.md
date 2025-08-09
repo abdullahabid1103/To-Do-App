@@ -8,6 +8,4 @@ Built to practice basic React concepts like state management and component struc
 - Edit existing tasks
 - Delete completed or unwanted tasks
 
----
 
-Feel free to clone and modify the project for learning or practice.
